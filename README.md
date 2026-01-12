@@ -5,9 +5,9 @@ Mode: Your AI assistant acts as a Language Finisher & Auditor
 Goal: Internalize why C# 7.3 matters without memorizing features
 ________________________________________
 
-Practice Set 1 - Understanding the Intent (Language Finisher)
+## Practice Set 1 - Understanding the Intent (Language Finisher)
 
-Practice Prompt 1: Fulfillment vs Novelty
+### Practice Prompt 1: Fulfillment vs Novelty
 
 Ask your AI assistant:
 
@@ -26,7 +26,7 @@ Outcome:
 You should clearly articulate why stabilization is a strategic milestone.
 ________________________________________
 
-Practice Prompt 2: The Two Guiding Themes
+### Practice Prompt 2: The Two Guiding Themes
 
 Ask:
 
@@ -45,9 +45,9 @@ Outcome:
 You should see how performance and polish are inseparable at scale.
 ________________________________________
 
-Practice Set 2 — Performance Without Unsafe Code (Low-Level Thinking)
+## Practice Set 2 — Performance Without Unsafe Code (Low-Level Thinking)
 
-Practice Prompt 3: Unsafe Code Shrinkage
+### Practice Prompt 3: Unsafe Code Shrinkage
 
 Ask:
 
@@ -66,7 +66,7 @@ Outcome:
 You should understand how safe abstractions became competitive.
 ________________________________________
 
-Practice Prompt 4: Reference-Based Algorithms
+### Practice Prompt 4: Reference-Based Algorithms
 
 Ask:
 
@@ -85,7 +85,7 @@ Outcome:
 You should be able to reason about performance without dropping safety.
 ________________________________________
 
-Practice Prompt 5: stackalloc Evolves
+### Practice Prompt 5: stackalloc Evolves
 
 Ask:
 
@@ -104,9 +104,9 @@ Outcome:
 You should recognize how ergonomics enable safer performance usage.
 ________________________________________
 
-Practice Set 3 — Refinement and Predictability (Language Auditor)
+## Practice Set 3 — Refinement and Predictability (Language Auditor)
 
-Practice Prompt 6: Tuple Equality as a Signal
+### Practice Prompt 6: Tuple Equality as a Signal
 
 Ask:
 
@@ -125,7 +125,7 @@ Outcome:
 You should see predictability as a core language value.
 ________________________________________
 
-Practice Prompt 7: Expression Variables Everywhere
+### Practice Prompt 7: Expression Variables Everywhere
 
 Ask:
 
@@ -144,7 +144,7 @@ Outcome:
 You should understand how consistency reduces cognitive load.
 ________________________________________
 
-Practice Prompt 8: Attributes on Backing Fields
+### Practice Prompt 8: Attributes on Backing Fields
 
 Ask:
 
@@ -163,9 +163,9 @@ Outcome:
 You should grasp how small features unlock large frameworks.
 ________________________________________
 
-Practice Set 4 — Compiler Options as Ecosystem Signals
+## Practice Set 4 — Compiler Options as Ecosystem Signals
 
-Practice Prompt 9: Beyond Syntax
+### Practice Prompt 9: Beyond Syntax
 
 Ask:
 
@@ -184,7 +184,7 @@ Outcome:
 You should recognize the compiler as part of the language contract.
 ________________________________________
 
-Practice Prompt 10: Language + Toolchain
+### Practice Prompt 10: Language + Toolchain
 
 Ask:
 
@@ -203,9 +203,9 @@ Outcome:
 You should see language design as ecosystem design.
 ________________________________________
 
-Practice Set 5 — Evolution Framework Evaluation
+## Practice Set 5 — Evolution Framework Evaluation
 
-Practice Prompt 11: Problem Framing
+### Practice Prompt 11: Problem Framing
 
 Ask:
 
@@ -224,7 +224,7 @@ Outcome:
 You should evaluate language versions by problems solved, not features shipped.
 ________________________________________
 
-Practice Prompt 12: Foundational vs Tactical
+### Practice Prompt 12: Foundational vs Tactical
 
 Ask:
 
@@ -243,9 +243,9 @@ Outcome:
 You should develop architectural judgment across versions.
 ________________________________________
 
-Practice Set 6 — Historical Reflection
+## Practice Set 6 — Historical Reflection
 
-Practice Prompt 13: Closing a Chapter
+### Practice Prompt 13: Closing a Chapter
 
 Ask:
 
@@ -264,7 +264,7 @@ Outcome:
 You should understand why what comes next requires this stability.
 ________________________________________
 
-Final Meta-Prompt (Optional but Powerful)
+### Final Meta-Prompt (Optional but Powerful)
 
 Ask your AI assistant:
 
@@ -275,7 +275,7 @@ Ultimate Outcome:
 You should be able to explain why C# 7.3 had to happen, even though it feels quiet.
 ________________________________________
 
-Key Mental Model to Keep
+## Key Mental Model to Keep
 
 C# 7.3 proves that mature languages evolve by removing excuses.
 
